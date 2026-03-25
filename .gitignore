@@ -1,0 +1,7 @@
+.vs/
+*.opendb
+out/
+Debug/
+Release/
+*.exe
+*.obj
